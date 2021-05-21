@@ -27,8 +27,8 @@ namespace Rendez_vous
             while (t1.IsAlive) { }
             while (t2.IsAlive) { }
 
-            Console.WriteLine($"minimo: {min}");
-            Console.WriteLine($"media: {med}");
+            Console.WriteLine($"minimo : {min}");
+            Console.WriteLine($"media : {med}");
 
             Console.ReadLine();
         }
